@@ -1,0 +1,21 @@
+# HEAVY TANK
+
+tankName=Green Heavy Tank
+bodyImage=data/image/entity/heavy-ct.png
+turretImage=data/image/entity/heavy-ct-turret.png
+fullImage=script/tank/heavy.png
+moveSpeed=0.0025f
+rotateSpeed=0.1f
+xTurretSpace=-8f
+yTurretSpace=-24f
+rocketStartDistance=0.9f
+bulletStartDistance=0.9f
+infiniteBulletAmmo=true
+infiniteRocketAmmo=false
+reloadTime=2000
+numBullet=2
+numRocket=2
+maxAmmoBullet=20
+maxAmmoRocket=40
+rocketSmokeColor=lightgreen
+rocketSmokeColorType=1

@@ -1,0 +1,21 @@
+# LITE TANK
+
+tankName=Green Lite Tank
+bodyImage=data/image/entity/lite-t.png
+turretImage=data/image/entity/lite-t-turret.png
+fullImage=script/tank/lite.png
+moveSpeed=0.00275f
+rotateSpeed=0.1f
+xTurretSpace=-6f
+yTurretSpace=-19f
+rocketStartDistance=0.7f
+bulletStartDistance=0.7f
+infiniteBulletAmmo=true
+infiniteRocketAmmo=false
+reloadTime=2000
+numBullet=1
+numRocket=1
+maxAmmoBullet=20
+maxAmmoRocket=22
+rocketSmokeColor=orange
+rocketSmokeColorType=1

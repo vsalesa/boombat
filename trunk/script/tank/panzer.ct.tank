@@ -1,0 +1,21 @@
+# GREEN BARRET PANZER 
+
+tankName=Green Barret Panzer
+bodyImage=data/image/entity/panser-ct.png
+turretImage=data/image/entity/panser-ct-turret.png
+fullImage=script/tank/panser.png
+moveSpeed=0.00400f
+rotateSpeed=0.1f
+xTurretSpace=-6f
+yTurretSpace=-17f
+rocketStartDistance=0.6f
+bulletStartDistance=0.6f
+infiniteBulletAmmo=true
+infiniteRocketAmmo=false
+reloadTime=2000
+numBullet=1
+numRocket=1
+maxAmmoBullet=20
+maxAmmoRocket=15
+rocketSmokeColor=cyan
+rocketSmokeColorType=0

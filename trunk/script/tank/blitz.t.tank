@@ -1,0 +1,21 @@
+# GREEN BARRET BLITZ TANK
+
+tankName=Green Barret Blitz Tank
+bodyImage=data/image/entity/blitz-t.png
+turretImage=data/image/entity/blitz-t-turret.png
+fullImage=script/tank/blitz.png
+moveSpeed=0.003f
+rotateSpeed=0.1f
+xTurretSpace=-6f
+yTurretSpace=-27f
+rocketStartDistance=0.9f
+bulletStartDistance=0.9f
+infiniteBulletAmmo=true
+infiniteRocketAmmo=false
+reloadTime=2000
+numBullet=1
+numRocket=1
+maxAmmoBullet=20
+maxAmmoRocket=20
+rocketSmokeColor=orange
+rocketSmokeColorType=1
