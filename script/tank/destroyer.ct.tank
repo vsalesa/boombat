@@ -1,0 +1,21 @@
+# DESTROYER TANK
+
+tankName=Black Destroyer Tank
+bodyImage=data/image/entity/destroyer-ct.png
+turretImage=data/image/entity/destroyer-ct-turret.png
+fullImage=script/tank/destroyer.png
+moveSpeed=0.0015f
+rotateSpeed=0.1f
+xTurretSpace=-6f
+yTurretSpace=-36f
+rocketStartDistance=1.2f
+bulletStartDistance=1.2f
+infiniteBulletAmmo=true
+infiniteRocketAmmo=false
+reloadTime=2000
+numBullet=1
+numRocket=1
+maxAmmoBullet=20
+maxAmmoRocket=50
+rocketSmokeColor=orange
+rocketSmokeColorType=1

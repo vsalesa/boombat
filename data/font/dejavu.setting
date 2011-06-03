@@ -1,0 +1,15 @@
+#
+#Wed Oct 15 08:30:33 ICT 2008
+texture.width=512
+font.italic=false
+font.bold=false
+padding.bottom=0
+texture.height=128
+charset.name=NEHE
+padding.top=0
+font.size=25
+padding.advance=2
+font.name=DejaVu Serif Condensed
+effects.count=0
+padding.right=2
+padding.left=0

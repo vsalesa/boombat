@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src-game">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="boombat-project-benchmark/native"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src-network"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jinput.jar"/>
+	<classpathentry kind="lib" path="lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="lib/slickfx.jar"/>
+	<classpathentry kind="lib" path="lib/mina-core-2.0.0-M3.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/slick-b237.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="build/classes/boombatproject"/>
+</classpath>

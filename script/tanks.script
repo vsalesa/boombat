@@ -1,0 +1,10 @@
+blitz.CT=script/tank/blitz.ct.tank
+heavy.CT=script/tank/heavy.ct.tank
+destroyer.CT=script/tank/destroyer.ct.tank
+panzer.CT=script/tank/panzer.ct.tank
+lite.CT=script/tank/lite.ct.tank
+blitz.T=script/tank/blitz.t.tank
+heavy.T=script/tank/heavy.t.tank
+destroyer.T=script/tank/destroyer.t.tank
+panzer.T=script/tank/panzer.t.tank
+lite.T=script/tank/lite.t.tank
